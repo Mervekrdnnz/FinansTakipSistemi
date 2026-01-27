@@ -1,0 +1,14 @@
+C:\Users\Ahmet\FinansTakipSistemi\obj\Debug\net10.0\FinansTakipSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\FinansTakipSistemi\obj\Debug\net10.0\FinansTakipSistemi.AssemblyInfoInputs.cache
+C:\Users\Ahmet\FinansTakipSistemi\obj\Debug\net10.0\FinansTakipSistemi.AssemblyInfo.cs
+C:\Users\Ahmet\FinansTakipSistemi\obj\Debug\net10.0\FinansTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\FinansTakipSistemi\bin\Debug\net10.0\FinansTakipSistemi.exe
+C:\Users\Ahmet\FinansTakipSistemi\bin\Debug\net10.0\FinansTakipSistemi.deps.json
+C:\Users\Ahmet\FinansTakipSistemi\bin\Debug\net10.0\FinansTakipSistemi.runtimeconfig.json
+C:\Users\Ahmet\FinansTakipSistemi\bin\Debug\net10.0\FinansTakipSistemi.dll
+C:\Users\Ahmet\FinansTakipSistemi\bin\Debug\net10.0\FinansTakipSistemi.pdb
+C:\Users\Ahmet\FinansTakipSistemi\obj\Debug\net10.0\FinansTakipSistemi.dll
+C:\Users\Ahmet\FinansTakipSistemi\obj\Debug\net10.0\refint\FinansTakipSistemi.dll
+C:\Users\Ahmet\FinansTakipSistemi\obj\Debug\net10.0\FinansTakipSistemi.pdb
+C:\Users\Ahmet\FinansTakipSistemi\obj\Debug\net10.0\FinansTakipSistemi.genruntimeconfig.cache
+C:\Users\Ahmet\FinansTakipSistemi\obj\Debug\net10.0\ref\FinansTakipSistemi.dll
