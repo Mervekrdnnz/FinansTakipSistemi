@@ -1,4 +1,4 @@
-# 🚀 Merve'nin Akıllı Finans Asistanı (Smart Finance Manager)
+# 🚀 Akıllı Finans Asistanı (Smart Finance Manager)
 
 Bu proje, kişisel bütçe yönetimini otomatize eden, harcamaları analiz eden ve tasarruf hedefleri koymanızı sağlayan kapsamlı bir **C# Konsol Uygulamasıdır**. 
 
@@ -43,3 +43,4 @@ Bu proje sürekli geliştirilmektedir. Öneri veya hata bildirimleri için **Iss
 
 ---
 *Merve tarafından yazılımcı tutkusuyla geliştirilmiştir.* 💻✨
+
